@@ -1,7 +1,7 @@
 # Piping-in-Salome-Meca-Code_Aster
 One possibility for simulating pipes in Salome-Meca/Code_Aster.
 
-Pipes may be simulated in Code_Aster with using special pipe elements, or jus plain 3D geometries, like we did here. Everything is done in Salome-Meca and Code Aster.
+Pipes may be simulated in Code_Aster with using special pipe elements, or just plain 3D geometries, like we did here. Everything is done in Salome-Meca and Code Aster.
 
 First create a path for the pipe (line element, arcs, wahtaever you need are then summarized in a 'wire'). If you want to use pipe elements, then you are basically done here. If you want to design a piping in 3D, then extrude a ring with appropriate dimensions along this path. 
 
