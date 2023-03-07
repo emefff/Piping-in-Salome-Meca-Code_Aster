@@ -12,3 +12,6 @@ Mesh the part, here we used netgen with quad elements.
 The displacement result below shows a piping with one end and first elbow fixed. Due to the differences of the inner surfaces on either side of the pipe, the free end wants to unfold:
 
 ![Bildschirmfoto vom 2023-03-07 08-46-40](https://user-images.githubusercontent.com/89903493/223358472-90062f9c-7799-4f18-b333-f1af676b9e80.png)
+
+
+Possible further complications are: thermal cycling, different materials, dynamic pressure changes etc..
