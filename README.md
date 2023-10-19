@@ -15,3 +15,5 @@ The displacement result below shows a piping with one end and first elbow fixed.
 
 
 Possible further complications are: thermal cycling, different materials, dynamic pressure changes etc..
+
+emefff@gmx.at
